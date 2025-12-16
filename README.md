@@ -9,7 +9,7 @@ Highlights features, benefits, and supported platforms with a clean design and s
 
 ![Clipboard Landing Page Screenshot](/screenshot.jpg)
 
-Live demo: [https://dzik0.github.io/clipboard-landing-page](https://dzik0.github.io/clipboard-landing-page)
+Live demo: [https://p-glazowski.github.io/clipboard-landing-page](https://p-glazowski.github.io/clipboard-landing-page)
 
 ---
 
@@ -68,7 +68,7 @@ public/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Dzik0/clipboard-landing-page.git
+   git clone https://github.com/p-glazowski/clipboard-landing-page.git
    cd clipboard-landing-page
    ```
 
