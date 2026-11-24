@@ -97,8 +97,8 @@ public/
 
 ## 👨‍💻 Author
 
-**Dzik0**  
-GitHub: [https://github.com/Dzik0](https://github.com/Dzik0)
+**p-glazowski**  
+GitHub: [https://github.com/p-glazowski](https://github.com/p-glazowski)
 
 ---
 
